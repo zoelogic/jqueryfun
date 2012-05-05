@@ -4,4 +4,89 @@
  * go for it create some cool css.
  */
  
+ /**
+  * Collaborative CSS Below
+  */
+ 
+  /**
+  * Michael's CSS Below
+  */
+ 
+ 
+ /**
+  * Jon's CSS Below
+  */
+ 
+ 
+ #jonPageNavigator
+ {
+ 	postion: absolute;
+ 	left: 0px;
+ 	top: 200px;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+ }
+ 
+ #jonPageNavigator .button1
+ {
+ 	postion: relative;
+ 	left: 0px;
+ 	top: 0px;
+    width: 240px;
+    height: 75px;
+ }
+ 
+ #jonPageNavigator .button1 a
+ {
+ 	float: left;
+    width: 240px;
+    height: 75px;
+    background-image: url(images/button1.jpg);
+ }
+ 
+ #jonPageNavigator .button1 a:hover
+ {
+ 	float: left;
+    width: 240px;
+    height: 75px;
+    background-image: url(images/button1Rollover.jpg);
+ }
+ 
+  #jonPageNavigator .button1 a:link, a:visited
+ {
+ 	text-decoration: none;
+ }
+ 
+ 
+ #jonPageNavigator .button2
+ {
+ 	postion: relative;
+ 	left: 0px;
+ 	top: 0px;
+    width: 240px;
+    height: 75px;
+ }
+ 
+ #jonPageNavigator .button2 a
+ {
+ 	float: left;
+    width: 240px;
+    height: 75px;
+    background-image: url(images/button2.jpg);
+ }
+ 
+ #jonPageNavigator .button2 a:hover
+ {
+ 	float: left;
+    width: 240px;
+    height: 75px;
+    background-image: url(images/button2Rollover.jpg);
+ }
+ 
+  #jonPageNavigator .button2 a:link, a:visited
+ {
+ 	text-decoration: none;
+ }
+ 
  
