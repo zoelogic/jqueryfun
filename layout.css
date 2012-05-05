@@ -20,7 +20,7 @@
  
  #jonPageNavigator
  {
- 	postion: absolute;
+ 	position: absolute;
  	left: 0px;
  	top: 200px;
     width: 100%;
@@ -30,7 +30,7 @@
  
  #jonPageNavigator .button1
  {
- 	postion: relative;
+ 	position: relative;
  	left: 0px;
  	top: 0px;
     width: 240px;
@@ -61,7 +61,7 @@
  
  #jonPageNavigator .button2
  {
- 	postion: relative;
+ 	position: relative;
  	left: 0px;
  	top: 0px;
     width: 240px;

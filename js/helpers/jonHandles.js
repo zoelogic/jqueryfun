@@ -24,6 +24,9 @@ $('#jonPageNavigator').bind('click', function(event){
 		
 		console.log('Button1 target worked :-)');
 		
+		// Call method button1Test in class named "jon" in jQuery.jon.js
+		$.jon.button1Test();
+		
 	}
 	
 	/*
@@ -33,6 +36,9 @@ $('#jonPageNavigator').bind('click', function(event){
 	if ($(event.target).hasClass('targetButton2')){
 		
 		console.log('Button2 target worked :-)');
+		
+		// Call method button2Test in class named "jon" in jQuery.jon.js
+		$.jon.button2Test();
 		
 	}
 

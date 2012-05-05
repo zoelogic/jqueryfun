@@ -22,6 +22,24 @@ jQuery.jon = {
 			
 			console.log('setPurpleBox function was run.');
 			
+		},
+		/* button1Test() 
+		 * Test method to show how methods can be executed 
+		 * in an event handler.
+		 */
+		button1Test: function(){
+			
+			console.log('button1Test method was executed.');
+			
+		},
+		/* button2Test() 
+		 * Test method to show how methods can be executed 
+		 * in an event handler.
+		 */
+		button2Test: function(){
+			
+			console.log('button2Test method was executed.');
+			
 		}
 }
 
