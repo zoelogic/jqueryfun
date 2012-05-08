@@ -38,6 +38,9 @@ $(document).ready(function(){
 		$.jon.setBlueBox();
 		$.jon.setPurpleBox();
 		
+		// Hide elements
+		//$('#image1').hide();
+		
 		
 	});
 	
